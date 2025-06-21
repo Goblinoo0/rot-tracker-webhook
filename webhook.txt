@@ -1,1 +1,1 @@
-Replace this text with your Discord webhook URL
+https://discordapp.com/api/webhooks/1386055824924868700/1hNozwPONLFKvBguModuqBzlyjiRz23DsUc_mQSeTkD1bCjgNEKly62AubNDF9OVydR_
